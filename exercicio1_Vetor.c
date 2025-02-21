@@ -7,7 +7,7 @@ int main{
     int vetorb[5];
     int i;
 
-    for(){
+    for(aaa){
         
     }
 

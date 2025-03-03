@@ -1,8 +1,8 @@
-#include<stdio.h>
-#include<stdlib.h>
+Escrever um programa que leia um vetor de 5 posições de elementos inteiros e crie
+a partir deste um segundo vetor (cópia do primeiro), substituindo os valores zeros
+do primeiro vetor, sempre que aparecerem, por 1. Mostrar os dois vetores.
 
-int main () {
-    
+{
     int vetor[5];
     int vetorb[5];
     int i;
@@ -37,3 +37,4 @@ int main () {
 
     return 0;
 }
+
